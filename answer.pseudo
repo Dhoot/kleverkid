@@ -1,0 +1,3 @@
+function NameWithNumber($name){
+ print $name." ".rand(6,15);
+}
